@@ -62,7 +62,7 @@ App Development    ▓▓▓▓▓▓▓▓░░  Turning models into shippable
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhanvahp&theme=tokyonight" alt="Stats" height="180" />
-  <img src="https://streak-stats.demolab.com/?user=Sudhanvahp&theme=tokyonight&hide_border=true" alt="Streak" height="180" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Sudhanvahp&theme=tokyonight&utcOffset=5.5" alt="Productive Time" height="180" />
 </p>
 
 <p align="center">
@@ -71,6 +71,12 @@ App Development    ▓▓▓▓▓▓▓▓░░  Turning models into shippable
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanvahp&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</p>
+
+<h3 align="center">🟩 Contribution Calendar</h3>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/Sudhanvahp" alt="contribution calendar" width="85%" />
 </p>
 
 ---
