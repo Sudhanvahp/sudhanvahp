@@ -1,14 +1,11 @@
-<!-- Animated wave header banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00c6ff&height=200&section=header&text=Sudhanva&fontColor=ffffff&fontSize=60&animation=fadeIn&fontAlignY=38&desc=Application%20Developer%20%C2%B7%20Vision%20AI%20%26%20Object%20Detection&descAlignY=60&descSize=18" alt="header" />
-</p>
-
-<!-- Waving hand + animated typing subtitle -->
+<!-- Header title (pure HTML — always renders) -->
 <h1 align="center">
   Hi there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35" alt="waving hand" />
   I'm Sudhanva
 </h1>
+
+<h3 align="center">Application Developer · Vision AI &amp; Object Detection</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
