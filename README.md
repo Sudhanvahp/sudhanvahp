@@ -64,16 +64,16 @@ App Development    ▓▓▓▓▓▓▓▓░░  Turning models into shippable
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sudhanvahp&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sudhanvahp&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
+  <img src="https://streak-stats.demolab.com/?user=Sudhanvahp&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhanvahp&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
-<!-- Animated contribution snake (requires the workflow below — see setup notes) -->
+<!-- Activity graph (renders instantly, no setup needed) -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Sudhanvahp/Sudhanvahp/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudhanvahp&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </p>
 
 ---
